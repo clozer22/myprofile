@@ -337,7 +337,6 @@ div .success{
     cursor: pointer;
     border-radius:50%;
     width:12rem;
-    text-align: center;
 }
 .blogs .box-container .box .content h3{
     line-height: 1.8;
